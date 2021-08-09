@@ -14,3 +14,8 @@ In Python lists are sequences, just like strings and ranges, which means we can 
 
 ## Problem description
 
+The program needs to allow the user to add a new name to the list, remove the exsisting name from the roster, determine whether a name exists in the current version of the list, and print the entire roster to the console.
+
+The program should look like this:
+
+![image](https://user-images.githubusercontent.com/86201781/128737724-7d1ace08-6999-4cde-8447-94ce1eb34dbd.png)
