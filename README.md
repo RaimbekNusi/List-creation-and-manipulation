@@ -19,3 +19,12 @@ The program needs to allow the user to add a new name to the list, remove the ex
 The program should look like this:
 
 ![image](https://user-images.githubusercontent.com/86201781/128737724-7d1ace08-6999-4cde-8447-94ce1eb34dbd.png)
+
+## How to use
+Here are the steps for how to open, use and utilize the program:
+
+- First, download all of the files listed above; 
+- Put all the files in one folder; 
+- Open the file Projec_list_of_names.py; 
+- The program will open a command console which will show the main menu of the program and ask you to input any of the comands
+
