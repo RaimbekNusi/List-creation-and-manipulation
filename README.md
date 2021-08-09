@@ -50,7 +50,7 @@ Here are the steps for how to open, use and utilize the program:
 
 ![image](https://user-images.githubusercontent.com/86201781/128737724-7d1ace08-6999-4cde-8447-94ce1eb34dbd.png)
 
-##Как использовать
+## Как использовать
 
 Шаги по открытию, использованию программы:
 
